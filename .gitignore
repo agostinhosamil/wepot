@@ -1,0 +1,6 @@
+node_modules
+
+# Ignore whole the example video and audio files
+*.mp4
+*.mp3
+!avatar.mp4
